@@ -10,8 +10,13 @@ It is part of my learning journey in computer architecture & organization in Yea
 
 ## 🚀 Getting Started
 To assemble and run the programs:
+```bash
 make FILE=n01
 make run FILE=n01
+```
 
+## 🧹 Cleaning Up
 To remove the build folder:
+```bash
 make clean
+```
